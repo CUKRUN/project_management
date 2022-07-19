@@ -1,0 +1,132 @@
+
+.cukrun_button {
+  background-color: #00B4AB; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+  
+}
+.cukrun_button2 {
+  background-color: white; 
+  border: none;
+  color:black;
+  font:bold;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  
+  display: inline-block;
+  font-size: 12px;
+  margin: 19px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+  width: 100px;
+  border-width: 5px;
+  border-color: #00B4AB;
+}
+
+.cukrun_button3 {
+  background-color: #00B4AB; 
+  border: none;
+  color:white;
+  font:bold;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  
+  display: inline-block;
+  font-size: 12px;
+  margin: 19px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+  width: 100px;
+  border-width: 5px;
+  border-color: #00B4AB;
+}
+
+.cukrun_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    height: auto;
+
+    margin-left: 0%;
+    margin-right:0%;
+    
+}
+.cukrun_bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: left;
+  height: 60px;
+  width: 100pc;
+  margin-left: 0%;
+  margin-right:0%;
+  background-color: #00B4AB;
+  position: fixed;
+  
+}
+.cukrun_div1_col {
+    display: flex;
+    flex-direction:column;
+    float: left;
+    align-content: left;
+    height: auto;
+    width: 40%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding: 10px;
+    resize: both;
+    overflow:auto;
+
+}
+.cukrun_div2_col {
+    display: flex;
+    flex-direction:column;
+    float: left;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 10px;
+
+}
+ 
+.cukrun_table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  border-right: 0ch;
+  border-left:0ch ;
+  
+}
+  
+table, td, th {
+  border-top: 0.5px solid;
+
+  padding: 1px;
+  font-size: small;
+  overflow:auto;
+  height: 20px;
+}
+
+
+
+.cukrun_form{
+
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
